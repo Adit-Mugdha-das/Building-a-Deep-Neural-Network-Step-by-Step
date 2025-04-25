@@ -1,6 +1,6 @@
 # Building a Deep Neural Network Step by Step 
 
-This assignment involves implementing a deep L-layer neural network step-by-step using only NumPy. The network is capable of classifying a non-linear dataset by combining forward propagation, backward propagation, cost computation, and parameter updates in a modular, extensible structure.  
+This  involves implementing a deep L-layer neural network step-by-step using only NumPy. The network is capable of classifying a non-linear dataset by combining forward propagation, backward propagation, cost computation, and parameter updates in a modular, extensible structure.  
 This repository contains my implementation of the Week 4 programming assignment from the **Deep Learning Specialization** (Course 1: Neural Networks and Deep Learning) by **Andrew Ng**.
 
 ##  Description
